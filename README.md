@@ -15,4 +15,4 @@ Simple Implementation of Midtrans Payment Gateway to Shopping Webpage Integratio
 5. User address is already gathered when the user wrote his/her address in their account information.
 
 # From the writer
-I hope this code will inspire everyone who read it. and also, I wish you can send me any feedback and any suggestion for my next code.
+This is my first  time doing an implementation of a payment gateway integration to my own page. I'm excited to do more research about this kind of Implementation. I hope this code will inspire everyone who read it. and also, I wish you can send me any feedback or any suggestion for my next code.
