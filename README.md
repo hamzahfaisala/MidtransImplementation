@@ -1,4 +1,4 @@
-# MidtransImplementation
+# Midtrans Implementation
 Simple Implementation of Midtrans Payment Gateway to Shopping Webpage Integration
 
 # Things you should know before use
