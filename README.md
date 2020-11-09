@@ -11,7 +11,7 @@ Simple Implementation of Midtrans Payment Gateway to Shopping Webpage Integratio
 1. This is a shopping page in a clothing line website.
 2. To access this shopping page, you need to have an account.
 3. in this scenario, you are assumed in a logged in status.
-4. Delivery fee is ajusted by the distance between the store to the user address.
+4. Delivery fee is adjusted by the distance between the store to the user address.
 5. User address is already gathered when the user wrote his/her address in their account information.
 
 # From the writer
